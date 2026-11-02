@@ -56,26 +56,6 @@ onMounted(() => {
           Fire Emblem Shadow Dragon <br />
           and the Blade of Light
         </RouterLink>
-        <div class="game" draggable="false" id="bt">
-          Blossom Tales: The Sleeping King <br />
-          Coming Soon...
-        </div>
-        <div class="game" draggable="false" id="xde">
-          Xenoblade: Definitive Edition <br />
-          Coming Soon...
-        </div>
-        <div class="game" draggable="false" id="x2">
-          Xenoblade 2 <br />
-          Coming Soon...
-        </div>
-        <div class="game" draggable="false" id="ls">
-          The Last Story <br />
-          Coming Soon...
-        </div>
-        <div class="game" draggable="false" id="tesv">
-          The Elder Scrolls V: Skyrim <br />
-          Coming Soon...
-        </div>
       </div>
     </div>
   </section>
@@ -163,30 +143,6 @@ onMounted(() => {
 #na {
   background-image: url("../assets/splash/na.svg");
   background-position: 55%;
-}
-
-#bt {
-  background-image: url("../assets/splash/bt.svg");
-  background-position: 85%;
-  color: #0f0529;
-}
-
-#xde {
-  background-image: url("../assets/splash/xde.svg");
-  color: #0f0529;
-}
-
-#x2 {
-  background-image: url("../assets/splash/x2.svg");
-}
-
-#ls {
-  background-image: url("../assets/splash/ls.svg");
-}
-
-#tesv {
-  background-image: url("../assets/splash/tesv.svg");
-  background-position: 20%;
 }
 
 #kh {
